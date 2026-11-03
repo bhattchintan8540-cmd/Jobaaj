@@ -1,12 +1,14 @@
-# Project 2 - Power BI Analytics
+# Project 2 - OTT Dashboard
 
 ## Overview
-This folder contains all files for Power BI Project 2.
-
-## Projects
-- Tool: Microsoft Power BI
-- Owner: bhattchintan8540-cmd
-- Platform: GitHub
+This folder contains the Power BI OTT Dashboard project.
 
 ## Files
-All files sourced from local Power BI Project 2 folder.
+- `OTT Dashboard.pbix`
+
+## Details
+- Tool: Microsoft Power BI Desktop
+- File type: `.pbix`
+- File size: 5.07 MB
+- Owner: bhattchintan8540-cmd
+- Created: 03 November 2026
